@@ -4,7 +4,7 @@
    Code is Apache-2.0 and docs are CC-BY-4.0
 
 
-BigchainDB and Smart Contracts
+BigchainDB 및 스마트계약
 ==============================
 
 BigchainDB에는 스마트 계약 (즉, 컴퓨터 프로그램)의 소스 코드를 저장할 수 있지만 BigchainDB는 임의의 스마트 계약을 실행하지 않습니다.
