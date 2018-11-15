@@ -3,7 +3,7 @@
    SPDX-License-Identifier: (Apache-2.0 AND CC-BY-4.0)
    Code is Apache-2.0 and docs are CC-BY-4.0
 
-How BigchainDB is Good for Asset Registrations & Transfers
+BigchainDB가 자산 등록 및 전송에 적합한 방법
 ==========================================================
 
 BigchainDB can store data of any kind (within reason), but it's designed to be particularly good for storing asset registrations and transfers:
