@@ -44,7 +44,7 @@ TRANSFER 트랜잭션의 각 입력은 다른 트랜잭션의 한 출력에 연�
 
 TRANSFER 트랜잭션은 위에서 설명한 CREATE 트랜잭션과 마찬가지로 하나 이상의 출력을 가질 수 있습니다. 투입물에 들어오는 총 주식 수는 산출물에서 나가는 총 주식 수와 같아야합니다s.
 
-![Example BigchainDB transactions](bigchaindb/docs/root/source/_static/CREATE_and_TRANSFER_example.png)
+![Example BigchainDB transactions](/docs/root/source/_static/CREATE_and_TRANSFER_example.png)
 
 위 그림은 두 개의 BigchainDB 트랜잭션, CREATE 트랜잭션 및 TRANSFER 트랜잭션의 다이어그램을 보여줍니다. CREATE 트랜잭션은 이전 다이어그램과 동일합니다. TRANSFER 트랜잭션은 Pam의 출력을 소비하므로 TRANSFER 트랜잭션의 입력에는 Pam의 유효한 서명 (즉, 유효한 이행)이 포함되어야합니다. TRANSFER 트랜잭션에는 두 개의 출력이 있습니다. Jim은 하나의 공유를 가져오고 Pam은 나머지 두 개의 공유를 가져옵니다.
 
